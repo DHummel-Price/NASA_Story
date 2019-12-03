@@ -37,7 +37,8 @@ The other parts will be a description of how the author obtained and cleaned the
 A transition from the above discussion to the actual data presentation. 
 
 #### Choropleth map 
-The 
+I need to fix this so that the map is interactive.
+<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~Dfresh32/4.embed"></iframe>
 
 
 ## Project Origination and Acknowledgements 
