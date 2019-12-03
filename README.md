@@ -30,7 +30,7 @@ This story uses NASA procurment data and historical data about who sits on which
 Part of this will be modified text about the NASA contracts from previous assignements. 
 
 #### Congressional Committee Data
-<This will be a description of how the author obtained and cleaned the committee data. I will likely need to manually find this information.>
+This will be a description of how the author obtained and cleaned the committee data. I will likely need to manually find this information.
 
 ## Start of Story
 
@@ -41,16 +41,17 @@ I need to fix this so that the map is interactive.
 <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~Dfresh32/4.embed"></iframe>
 
 Let's zoom in on just the states that contain NASA centers
-<Other Map>
+(Other Map)
   
 Now let's look at where committee members are from.
+(Committee Map - maybe a graphic using the setup of the house/senate floors)
 
 ## Relationships between variables
 The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables. 
-<This will contain a brushed parallel coordinate plot>
+(his will contain a brushed parallel coordinate plot)
 
 ## Find your congressional district
-<This will be an interactive tool that allows viewers to enter their zip code (or more likely, their congressional district), to identify the amount of money spent in their district. This part may be located at the beginning.>
+This will be an interactive tool that allows viewers to enter their zip code (or more likely, their congressional district), to identify the amount of money spent in their district. This part may be located at the beginning.
 
 ## Project Origination and Acknowledgements 
 
