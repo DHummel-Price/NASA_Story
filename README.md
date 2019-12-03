@@ -40,16 +40,19 @@ I need to fix this so that the map is interactive.
 <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~Dfresh32/4.embed"></iframe>
 
 #### NASA Centers
-Let's zoom in on just the states that contain NASA centers
+Let's zoom in on just the states that contain NASA centers.  
+
 (Other Map)
   
 #### Committee Membership  
-Now let's look at where committee members are from.
+Now let's look at where committee members are from.  
+
 (Committee Map - maybe a graphic using the setup of the house/senate floors)
 
 ## Relationships between variables
-The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables. 
-(his will contain a brushed parallel coordinate plot)
+The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables.   
+
+(This will contain a brushed parallel coordinate plot)
 
 ## Find your congressional district
 This will be an interactive tool that allows viewers to enter their zip code (or more likely, their congressional district), to identify the amount of money spent in their district. This part may be located at the beginning.
