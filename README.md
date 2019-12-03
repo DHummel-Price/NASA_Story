@@ -1,7 +1,7 @@
 # How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
 
+Establishing Shot (infographic? unclear)
 This section will contain a basic overview of the entire story. 
-Perhaps an infographic with key insights.
 
 ## Outline
 
