@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments. 
 
-You can use the [editor on GitHub](https://github.com/DHummel-Price/NASA_Story/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This section will contain a basic overview of the entire story. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Outline
 
-### Markdown
+This section will contain an outline of what is to come. I might not include this. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Brief Overview of NASA 
 
-```markdown
-Syntax highlighted code block
+This will contain information discussing each NASA center, including when it was established and what it primarily does (if easily described)
 
-# Header 1
-## Header 2
-### Header 3
+### Congressional Budgeting
 
-- Bulleted
-- List
+A brief overview of the congressional budget process.
 
-1. Numbered
-2. List
+#### NASA budget committees
 
-**Bold** and _Italic_ and `Code` text
+Connect the general overview of the process to the specific committes relevant to NASA.
 
-[Link](url) and ![Image](src)
-```
+### Data Sources
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A description of data used here. 
 
-### Jekyll Themes
+#### NASA Data
+Part of this will be modified text about the NASA contracts from previous assignements. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DHummel-Price/NASA_Story/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Congressional Committee Data
+The other parts will be a description of how the author obtained and cleaned the committee data.
 
-### Support or Contact
+#### Choropleth map 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+#### Project Origination and Acknowledgements 
+
+This project originally was developed for the Data Vizualization course as part of the author's Master of Science in Data Science for Public Policy degree program at the McCourt School for Public Policy at Georgetown University. The project would not be possible without the guidance of Taylor Corbett (<link to Taylor's page here>) and the other students in the course: Jean Landry Binam Keyanfe, Lixue Chen, Chandler Dawson, Zachary Gozlan, Eric LaRose, Yining Li, Ziqi Niu, Madeline Pickens, Andrea Cristina Quevedo Acuna, George Schoeffel, Harsh Sharda, Neha Tiwari, and Lily Yue. (Links for anyone in the class who wants them?) 
