@@ -1,7 +1,14 @@
 # How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
 
-Establishing Shot (infographic? unclear)
-This section will contain a basic overview of the entire story. 
+Establishing Shot (infographic? unclear).
+
+* This section will contain a basic overview of the entire story. 
+* This page should take between 5-15 minutes to ingest.
+* Intended audience:
+  * Nerdy teenager who is very interested in space, though not necessarily policy.
+  * The above teenagers parents, who may be scientists, academics, educators, or similar fields, but likely not directly working in space.
+  * 25-40 year old military member who has slightly more vested interest, but space is still a hobby.
+  * Young adult with enthusiasm for space who is just learning the complexity of the policy side. 
 
 ## Outline
 
@@ -57,8 +64,13 @@ The parallel coordinate diagram below contains the top variables and allows the 
 
 (This will contain a brushed parallel coordinate plot)
 
-## Find your congressional district
-This will be an interactive tool that allows viewers to enter their zip code (or more likely, their congressional district), to identify the amount of money spent in their district. This part may be located at the beginning.
+## Find your congressional district  
+This will be an interactive tool that allows viewers to enter their zip code (or more likely, their congressional district), to identify the amount of money spent in their district. This part may be located at the beginning.  
+
+### Call, Write, or Visit your congressional reps!  
+This will include a call-to-action.  
+
+
 
 ## Project Origination and Acknowledgements 
 
