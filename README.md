@@ -1,7 +1,7 @@
 # How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
 
 This section will contain a basic overview of the entire story. 
-
+Perhaps an infographic with key insights.
 
 ## Outline
 
@@ -26,7 +26,7 @@ Connect the general overview of the process to the specific committes relevant t
 This story uses NASA procurment data and historical data about who sits on which committee.  
 
 #### NASA Data
-Part of this will be modified text about the NASA contracts from previous assignements. 
+Part of this will be modified text about the NASA contracts from previous assignements. This will include a more in-depth discussion of the limitations of the data. 
 
 #### Congressional Committee Data  
 This will be a description of how the author obtained and cleaned the committee data. I will likely need to manually find this information.
@@ -49,6 +49,9 @@ Now let's look at where committee members are from.
 
 (Committee Map - maybe a graphic using the setup of the house/senate floors)
 
+## Drill-down: California.
+This section will examine the congressional districts in CA as they relate to the locations of the 3 NASA centers in CA.  
+
 ## Relationships between variables
 The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables.   
 
@@ -59,4 +62,4 @@ This will be an interactive tool that allows viewers to enter their zip code (or
 
 ## Project Origination and Acknowledgements 
 
-This project originally was developed for the Data Vizualization course as part of the author's Master of Science in Data Science for Public Policy degree program at the McCourt School for Public Policy at Georgetown University. The project would not be possible without the guidance of Taylor Corbett (<link to Taylor's page here>) and the other students in the course: Jean Landry Binam Keyanfe, Lixue Chen, Chandler Dawson, Zachary Gozlan, Eric LaRose, Yining Li, Ziqi Niu, Madeline Pickens, Andrea Cristina Quevedo Acuna, George Schoeffel, Harsh Sharda, Neha Tiwari, and Lily Yue. (Links for anyone in the class who wants them?) 
+This project originally was developed for the Data Vizualization course as part of the author's Master of Science in Data Science for Public Policy degree program at the McCourt School for Public Policy at Georgetown University. Special Thanks to the Planetary Society for providing the background domain knownledge that inspired this project. The project would not be possible without the guidance of Taylor Corbett (<link to Taylor's page here>) and the other students in the course: Jean Landry Binam Keyanfe, Lixue Chen, Chandler Dawson, Zachary Gozlan, Eric LaRose, Yining Li, Ziqi Niu, Madeline Pickens, Andrea Cristina Quevedo Acuna, George Schoeffel, Harsh Sharda, Neha Tiwari, and Lily Yue. (Links for anyone in the class who wants them?) 
