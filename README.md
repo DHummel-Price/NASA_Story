@@ -18,7 +18,6 @@ This will contain information discussing each NASA center, including when it was
 A brief overview of the congressional budget process.
 
 #### NASA budget committees
-
 Connect the general overview of the process to the specific committes relevant to NASA.
 
 
@@ -29,7 +28,7 @@ This story uses NASA procurment data and historical data about who sits on which
 #### NASA Data
 Part of this will be modified text about the NASA contracts from previous assignements. 
 
-#### Congressional Committee Data
+#### Congressional Committee Data  
 This will be a description of how the author obtained and cleaned the committee data. I will likely need to manually find this information.
 
 ## Start of Story
@@ -40,9 +39,11 @@ A transition from the above discussion to the actual data presentation.
 I need to fix this so that the map is interactive.
 <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~Dfresh32/4.embed"></iframe>
 
+#### NASA Centers
 Let's zoom in on just the states that contain NASA centers
 (Other Map)
   
+#### Committee Membership  
 Now let's look at where committee members are from.
 (Committee Map - maybe a graphic using the setup of the house/senate floors)
 
