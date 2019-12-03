@@ -1,4 +1,4 @@
-# How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments. 
+# How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
 
 This section will contain a basic overview of the entire story. 
 
@@ -32,8 +32,12 @@ Part of this will be modified text about the NASA contracts from previous assign
 #### Congressional Committee Data
 The other parts will be a description of how the author obtained and cleaned the committee data.
 
-#### Choropleth map 
+## Start of Story
 
+A transition from the above discussion to the actual data presentation. 
+
+#### Choropleth map 
+The 
 
 
 ## Project Origination and Acknowledgements 
