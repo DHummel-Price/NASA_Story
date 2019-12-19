@@ -65,8 +65,14 @@ The parallel coordinate diagram below contains the top variables and allows the 
 
 (This will contain a brushed parallel coordinate plot)
 
-## Find your congressional district  
-This will be an interactive tool that allows viewers to enter their zip code (or more likely, their congressional district), to identify the amount of money spent in their district. This part may be located at the beginning.  
+## Find your congressional district 
+The first step in contacting your congressional representitive is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
+
+[Click Here to Look Up Your Congressional Representitive](https://www.house.gov/htbin/findrep)
+  
+OR
+
+[Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.
 
 ### Call, Write, or Visit your congressional reps!  
 This will include a call-to-action.  
