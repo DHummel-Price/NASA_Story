@@ -52,14 +52,9 @@ Let's zoom in on just the states that contain NASA centers.
 
 
 (Other Map)
-A:
-<center><iframe src="https://public.tableau.com/shared/RZFGG4CCJ?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe></center>
-
 B:
-<center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '100%'></iframe></center>
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-C:
-<center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '600' height = '400'></iframe></center>
 
 #### Committee Membership  
 Now let's look at where committee members are from.  
