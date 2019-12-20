@@ -45,18 +45,32 @@ A transition from the above discussion to the actual data presentation.
 
 #### Choropleth map 
 I need to fix this so that the map is interactive.
+
+By State:
+<center><iframe src="https://public.tableau.com/views/ByStates/StateAwardDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+
+By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+
+https://public.tableau.com/views/ByStates/StateAwardDash?:
 
 #### NASA Centers
 Let's zoom in on just the states that contain NASA centers.  
 
+By State:
+<center><iframe src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
+By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 
 #### Committee Membership  
 Now let's look at where committee members are from.  
 
+Senate:
+<center><iframe src="https://public.tableau.com/views/ByStates/StateCommitteeDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+
+By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Committees?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Drill-down: California.
