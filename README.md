@@ -52,7 +52,6 @@ By State:
 By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-https://public.tableau.com/views/ByStates/StateAwardDash?:
 
 #### NASA Centers
 Let's zoom in on just the states that contain NASA centers.  
