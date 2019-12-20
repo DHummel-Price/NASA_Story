@@ -45,7 +45,7 @@ A transition from the above discussion to the actual data presentation.
 
 #### Choropleth map 
 I need to fix this so that the map is interactive.
-<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~Dfresh32/4.embed"></iframe>
+<script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1535px; height: 709px;'><object class='tableauViz' width='1535' height='709' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;nasacontracts' /><param name='name' value='ByDistricts&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
 #### NASA Centers
 Let's zoom in on just the states that contain NASA centers.  
