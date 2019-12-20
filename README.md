@@ -45,24 +45,24 @@ A transition from the above discussion to the actual data presentation.
 
 #### Choropleth map 
 I need to fix this so that the map is interactive.
-
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 #### NASA Centers
 Let's zoom in on just the states that contain NASA centers.  
 
 
-(Other Map)
-B:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 
 #### Committee Membership  
 Now let's look at where committee members are from.  
 
-(Committee Map - maybe a graphic using the setup of the house/senate floors)
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Committees?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Drill-down: California.
 This section will examine the congressional districts in CA as they relate to the locations of the 3 NASA centers in CA.  
+
+<center><iframe src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Relationships between variables
 The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables.   
