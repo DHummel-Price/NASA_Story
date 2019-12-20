@@ -1,25 +1,6 @@
 # How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
 
-Establishing Shot (infographic? unclear).
-
-* This section will contain a basic overview of the entire story. 
-  * [NASA PDV](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi)
-* This page should take between 5-15 minutes to ingest.
-* Intended audience:
-  * Nerdy teenager who is very interested in space, though not necessarily policy.
-  * The above teenagers parents, who may be scientists, academics, educators, or similar fields, but likely not directly working in space.
-  * 25-40 year old military member who has slightly more vested interest, but space is still a hobby.
-  * Young adult with enthusiasm for space who is just learning the complexity of the policy side. 
-
-## Outline
-
-This section will contain an outline of what is to come. I might not include this. 
-
-
-## Brief Overview of NASA 
-
-This will contain information discussing each NASA center, including when it was established and what it primarily does (if easily described)
-
+(Fill this in) 
 
 ## Congressional Budgeting
 The process by which the Federal government creates and approves the budget each year is not simple, but it can be boiled down into three parts:
@@ -28,36 +9,38 @@ The process by which the Federal government creates and approves the budget each
 * Part II: House and Senate Authorization Committees and Subcommittees
 * Part III: House and Senate Appropriations Committees and Sucbommittees
 
-This article focuses on the impact that you can have on parts 2 and 3 of the process by contacting your Senators and Representitives to express your support for NASA. A more complete explanation of the full process can be found on the Federal Government's website [here](https://www.usa.gov/budget). A primer is also included in the Planetary Society's free online course [Space Advocacy 101](https://courses.planetary.org/p/space-advocacy-101).
+This article focuses on the impact that you can have on parts 2 and 3 of the process by contacting your Senators and Representitives to express your support for NASA. A more complete explanation of the full process can be found on the Federal Government's website [here](https://www.usa.gov/budget). A primer is also included in the Planetary Society's free online course [Space Advocacy 101](https://courses.planetary.org/p/space-advocacy-101). The course is easy, modular, and only takes a few hours to complete. I highly recommend it. 
 
 
-#### NASA budget committees
+### NASA Budget Committees
 Members of the budgeting committees have an outsized influence on NASA's budget. If your Senators and Representitives are on any of these committees, it is especially important for you to engage with them about NASA and space exploration. The Committess involved in establishing NASA's budget are the following:
 
 * [The House Science, Space, and Technology Authorization Committee](https://science.house.gov/)
 * [The House Space and Aeornautics Subcommittee](https://science.house.gov/subcommittees/space-116th-congress)
+* [The House Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://appropriations.house.gov/subcommittees/commerce-justice-science-and-related-agencies-116th-congress)
+
 * [The Senate Commerce, Science, and Transportation Authorization Committee](https://www.commerce.senate.gov/)
 * [The Senate Aviation and Space Subcommittee](https://www.commerce.senate.gov/aviation-and-space)
-* [The House Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://appropriations.house.gov/subcommittees/commerce-justice-science-and-related-agencies-116th-congress)
 * [The Senate Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://www.appropriations.senate.gov/subcommittees/commerce-justice-science-and-related-agencies)
 
 
-## Data Sources
+## Why Your Voice Matters
+As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevent committee appointments. Speaking up to your elected representation is vital! 
 
-This article uses NASA procurment data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
+#### Data Sources
+The following uses NASA procurment data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
 
-
-## Geographic Diversity in NASA Contract Awards 
+### Geographic Diversity in NASA Contract Awards 
 Before we look at which districts and states NASA centers and relevant committee members originate, let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
 
-By State:
+#### NASA Contract Awards By State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateAwardDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-By District:
+#### NASA Contract Awards By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 
-#### NASA Centers are Scattered Across the Country
+### NASA Centers are Scattered Across the Country
 NASA has 10 field centers:
 
 * Ames Research Center (ARC): Mountain View, CA  
@@ -73,23 +56,27 @@ NASA has 10 field centers:
 
 For more infomation about the focus of each center as well as additional NASA facilities, see [NASA's website](https://www.nasa.gov/about/sites/index.html).
 
-The following maps break down these locations by state and by Congressional District:
+The following maps break down these locations by state and by Congressional District.
 
+### NASA Centers by State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
+### NASA Centers by District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
-
 
 #### Committee Membership  
 Now let's look at where committee members are from. Notice that these do not neatly overlap with the location of the centers discussed above. 
 
+### NASA Committee Membership by State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateCommitteeDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
+### NASA Committee Membership by District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Committees?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Drill-down: California
 California has three different NASA centers; the map below isolates California for a more detailed look. 
 
+### NASA Contracts in California
 <center><iframe src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Relationships between variables
