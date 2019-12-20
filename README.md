@@ -53,7 +53,8 @@ Let's zoom in on just the states that contain NASA centers.
 
 (Other Map)
 
-<center><iframe src="https://public.tableau.com/views/ByDistricts/Sheet6?:display_count=y&publish=yes&:origin=viz_share_link" width="1004" height="1269" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Sheet6?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe></center>
+
 
   
 #### Committee Membership  
