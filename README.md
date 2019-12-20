@@ -5,8 +5,9 @@ For over 60 years, the National Aeronautics and Space Administration ([NASA](htt
 ## Find your congressional district 
 The first step in contacting your congressional representitives is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
 
-[Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.  
-[Click Here](https://www.senate.gov/senators/index.htm) to look up your senators.
+* [Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.  
+* [Click Here](https://www.senate.gov/senators/index.htm) to look up your senators.  
+
 Take a moment to write down your district and the names of your rep and two senators. This information is your most basic responsibilty as an informed voter and faciliates the next step, determining whether they sit on any relevant budget committees  
 
 ## Congressional Budget Creation 
@@ -31,10 +32,7 @@ Members of the budgeting committees have an outsized influence on NASA's budget.
 * [The Senate Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://www.appropriations.senate.gov/subcommittees/commerce-justice-science-and-related-agencies)
 
 ## Why Your Voice Matters
-As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevent committee appointments. Speaking up to your elected representation is vital! 
-
-#### Data Sources
-The following uses NASA procurment data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
+As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevent committee appointments. Speaking up to your elected representation is vital! The following uses NASA procurment data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
 
 ### Geographic Diversity in NASA Contract Awards 
 Before we look at which districts and states NASA centers and relevant committee members originate, let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
@@ -45,7 +43,8 @@ Before we look at which districts and states NASA centers and relevant committee
 #### NASA Contract Awards By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-
+  
+  
 ### NASA Centers are Scattered Across the Country
 NASA has 10 field centers:
 
@@ -64,25 +63,26 @@ For more infomation about the focus of each center as well as additional NASA fa
 
 The following maps break down these locations by state and by Congressional District.
 
-### NASA Centers by State:
+#### NASA Centers by State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-### NASA Centers by District:
+#### NASA Centers by District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
-
-#### Committee Membership  
+  
+  
+### Committee Membership  
 Now let's look at where committee members are from. Notice that these do not neatly overlap with the location of the centers discussed above. 
 
-### NASA Committee Membership by State:
+#### NASA Committee Membership by State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateCommitteeDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-### NASA Committee Membership by District:
+#### NASA Committee Membership by District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Committees?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-## Drill-down: California
+### Drill-down: California
 California has three different NASA centers; the map below isolates California for a more detailed look. 
 
-### NASA Contracts in California
+#### NASA Contracts in California
 <center><iframe src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Relationships between variables
@@ -90,9 +90,9 @@ The parallel coordinate diagram below contains the top variables and allows the 
 
 (This will contain a brushed parallel coordinate plot)
 
-### Call, Write, or Visit your congressional reps!  
+## Call, Write, or Visit your congressional reps!  
 As the above demonstrates, NASA has a large and diverse set of Congresspeople with incentive to support NASA. I encourage you take a moment right now to send a note to your elected representitives urging them to support NASA. Congressional Offices rarely hear from constitutents regarding space policy and NASA, so they will take more note of your correspondence than they might for other issues. Don't stress too much about what to say. Simply state that you are a registered voter who is passionate about NASA and space, and that you urge your rep to support NASA however they can. Your voice matters. Call, write, or visit your rep today! 
 
-## Project Origination and Acknowledgements 
+### Project Origination and Acknowledgements 
 
 This project originally was developed for the Data Vizualization course as part of the author's Master of Science in Data Science for Public Policy degree program at the McCourt School for Public Policy at Georgetown University. Special Thanks to the Planetary Society for providing the background domain knownledge that inspired this project. The project would not be possible without the guidance of Taylor Corbett (<link to Taylor's page here>) and the other students in the course: Jean Landry Binam Keyanfe, Lixue Chen, Chandler Dawson, Zachary Gozlan, Eric LaRose, Yining Li, Ziqi Niu, Madeline Pickens, Andrea Cristina Quevedo Acuna, George Schoeffel, Harsh Sharda, Neha Tiwari, and Lily Yue. (Links for anyone in the class who wants them?) 
