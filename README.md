@@ -22,11 +22,28 @@ This will contain information discussing each NASA center, including when it was
 
 
 ## Congressional Budgeting
+The process by which the Federal government creates and approves the budget each year is not simple, but it can be boiled down into three parts:
 
-A brief overview of the congressional budget process.
+-Part I: Presidential Budget Proposal created by the Executive Branch (The President)
+-Part II: House and Senate Authorization Committees and Subcommittees
+-Part III: House and Senate Appropriations Committees and Sucbommittees
+
+This article focuses on the impact that you can have on parts 2 and 3 of the process by contacting your Senators and Representitives to express your support for NASA. A more complete explanation of the full process can be found on the Federal Government's website [here](https://www.usa.gov/budget). A primer is also included in the Planetary Society's free online course [Space Advocacy 101](https://courses.planetary.org/p/space-advocacy-101).
+
 
 #### NASA budget committees
-Connect the general overview of the process to the specific committes relevant to NASA.
+The Committess involved in establishing NASA's budget are the following:
+-[The House Science, Space, and Technology Authorization Committee](https://science.house.gov/)
+
+-[The House Space and Aeornautics Subcommittee](https://science.house.gov/subcommittees/space-116th-congress)
+
+-[The Senate Commerce, Science, and Transportation Authorization Committee](https://www.commerce.senate.gov/)
+
+-[The Senate Aviation and Space Subcommittee](https://www.commerce.senate.gov/aviation-and-space)
+
+-[The House Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://appropriations.house.gov/subcommittees/commerce-justice-science-and-related-agencies-116th-congress)
+
+-[The Senate Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://www.appropriations.senate.gov/subcommittees/commerce-justice-science-and-related-agencies)
 
 
 ## Data Sources
