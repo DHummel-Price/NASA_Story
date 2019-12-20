@@ -1,8 +1,15 @@
 # How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
 
-(Fill this in) 
+For over 60 years, the National Aeronautics and Space Administration ([NASA](https://www.nasa.gov/)) has lead humanity's efforts to explore the air and space around us. NASA's research has led to countless inventions and technologies, and the organization has inspired many thousands of children to grow up to become scientists. As self-evident as the worth and importance of NASA might be, it still must fight for proper funding and support from the Federal Government. You can help NASA in this fight for resources by contacting your elected officials. As this article will demonstrate, NASA has stakeholders across the country, so every voter should engage with their represenation to express support.
 
-## Congressional Budgeting
+## Find your congressional district 
+The first step in contacting your congressional representitives is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
+
+[Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.  
+[Click Here](https://www.senate.gov/senators/index.htm) to look up your senators.
+Take a moment to write down your district and the names of your rep and two senators. This information is your most basic responsibilty as an informed voter and faciliates the next step, determining whether they sit on any relevant budget committees  
+
+## Congressional Budget Creation 
 The process by which the Federal government creates and approves the budget each year is not simple, but it can be boiled down into three parts:
 
 * Part I: Presidential Budget Proposal created by the Executive Branch (The President)
@@ -12,7 +19,7 @@ The process by which the Federal government creates and approves the budget each
 This article focuses on the impact that you can have on parts 2 and 3 of the process by contacting your Senators and Representitives to express your support for NASA. A more complete explanation of the full process can be found on the Federal Government's website [here](https://www.usa.gov/budget). A primer is also included in the Planetary Society's free online course [Space Advocacy 101](https://courses.planetary.org/p/space-advocacy-101). The course is easy, modular, and only takes a few hours to complete. I highly recommend it. 
 
 
-### NASA Budget Committees
+### Committees relevant to NASA
 Members of the budgeting committees have an outsized influence on NASA's budget. If your Senators and Representitives are on any of these committees, it is especially important for you to engage with them about NASA and space exploration. The Committess involved in establishing NASA's budget are the following:
 
 * [The House Science, Space, and Technology Authorization Committee](https://science.house.gov/)
@@ -22,7 +29,6 @@ Members of the budgeting committees have an outsized influence on NASA's budget.
 * [The Senate Commerce, Science, and Transportation Authorization Committee](https://www.commerce.senate.gov/)
 * [The Senate Aviation and Space Subcommittee](https://www.commerce.senate.gov/aviation-and-space)
 * [The Senate Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://www.appropriations.senate.gov/subcommittees/commerce-justice-science-and-related-agencies)
-
 
 ## Why Your Voice Matters
 As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevent committee appointments. Speaking up to your elected representation is vital! 
@@ -83,11 +89,6 @@ California has three different NASA centers; the map below isolates California f
 The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables.   
 
 (This will contain a brushed parallel coordinate plot)
-
-## Find your congressional district 
-The first step in contacting your congressional representitive is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
-
-[Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.
 
 ### Call, Write, or Visit your congressional reps!  
 As the above demonstrates, NASA has a large and diverse set of Congresspeople with incentive to support NASA. I encourage you take a moment right now to send a note to your elected representitives urging them to support NASA. Congressional Offices rarely hear from constitutents regarding space policy and NASA, so they will take more note of your correspondence than they might for other issues. Don't stress too much about what to say. Simply state that you are a registered voter who is passionate about NASA and space, and that you urge your rep to support NASA however they can. Your voice matters. Call, write, or visit your rep today! 
