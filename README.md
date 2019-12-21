@@ -34,17 +34,6 @@ Members of the budgeting committees have an outsized influence on NASA's budget.
 ## Why Your Voice Matters
 As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevent committee appointments. Speaking up to your elected representation is vital! The following uses NASA procurment data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
 
-### Geographic Diversity in NASA Contract Awards 
-Before we look at which districts and states NASA centers and relevant committee members originate, let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
-
-#### NASA Contract Awards By State:
-<center><iframe src="https://public.tableau.com/views/ByStates/StateAwardDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
-
-#### NASA Contract Awards By District:
-<center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
-
-  
-  
 ### NASA Centers are Scattered Across the Country
 NASA has 10 field centers:
 
@@ -69,6 +58,17 @@ The following maps break down these locations by state and by Congressional Dist
 #### NASA Centers by District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
   
+
+### Geographic Diversity in NASA Contract Awards 
+Now let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
+
+#### NASA Contract Awards By State:
+<center><iframe src="https://public.tableau.com/views/ByStates/StateAwardDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+
+#### NASA Contract Awards By District:
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+
+
   
 ### Committee Membership  
 Now let's look at where committee members are from. Notice that these do not neatly overlap with the location of the centers discussed above. 
