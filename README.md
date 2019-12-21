@@ -86,9 +86,13 @@ California has three different NASA centers; the map below isolates California f
 <center><iframe src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Relationships between variables
-The parallel coordinate diagram below contains the top variables and allows the viewer to check the relationship between certain variables.   
+The parallel coordinate diagrams below contain the three variables discussed above. A parallel coordinate diagram facilites comparison of more than two variables. If the award amount strongly coorelated with committee membership and the location of field centers, we would expect most of the lines to be somewhat horizontal, with minimal crossing. We do not see that in the below diagrams. The takeaway is that many different districts and states have a stake in NASA, so don't assume your district is unimportant! Use the highlighter tool to enter your state and district to highlight it in the plot. Note: Due to limitations of Tableau, the three variables have min-max scaled to place them on the same scale. Hover your mouse over any given line to see the absolute values. 
 
-(This will contain a brushed parallel coordinate plot)
+#### By State:
+<center><iframe src="https://public.tableau.com/views/ByStates/ParallelDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+
+#### By District:
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Parallel?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Call, Write, or Visit your congressional reps!  
 As the above demonstrates, NASA has a large and diverse set of Congresspeople with incentive to support NASA. I encourage you take a moment right now to send a note to your elected representitives urging them to support NASA. Congressional Offices rarely hear from constitutents regarding space policy and NASA, so they will take more note of your correspondence than they might for other issues. Don't stress too much about what to say. Simply state that you are a registered voter who is passionate about NASA and space, and that you urge your rep to support NASA however they can. Your voice matters. Call, write, or visit your rep today! 
