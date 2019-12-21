@@ -1,8 +1,8 @@
-# How do NASA Contracts relate to the locations of NASA centers and Congressional Budget committee assignments? 
+## NASA Needs Your Support
 
 For over 60 years, the National Aeronautics and Space Administration ([NASA](https://www.nasa.gov/)) has lead humanity's efforts to explore the air and space around us. NASA's research has led to countless inventions and technologies, and the organization has inspired many thousands of children to grow up to become scientists. As self-evident as the worth and importance of NASA might be, it still must fight for proper funding and support from the Federal Government. You can help NASA in this fight for resources by contacting your elected officials. As this article will demonstrate, NASA has stakeholders across the country, so every voter should engage with their represenation to express support.
 
-## Find your Congressional District 
+## Find Your Congressional District 
 The first step in contacting your congressional representitives is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
 
 * [Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.  
@@ -20,7 +20,7 @@ The process by which the Federal government creates and approves the budget each
 This article focuses on the impact that you can have on parts 2 and 3 of the process by contacting your Senators and Representitives to express your support for NASA. A more complete explanation of the full process can be found on the Federal Government's website [here](https://www.usa.gov/budget). A primer is also included in the Planetary Society's free online course [Space Advocacy 101](https://courses.planetary.org/p/space-advocacy-101). The course is easy, modular, and only takes a few hours to complete. I highly recommend it. 
 
 
-**Committees relevant to NASA**
+**Committees Relevant to NASA**
 Members of the budgeting committees have an outsized influence on NASA's budget. If your Senators and Representitives are on any of these committees, it is especially important for you to engage with them about NASA and space exploration. The Committess involved in establishing NASA's budget are the following:
 
 * [The House Science, Space, and Technology Authorization Committee](https://science.house.gov/)
@@ -73,7 +73,7 @@ Now let's look at where committee members are from. Notice that these do not nea
   
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByDistricts/Committees?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
 
-### Drill-down: California
+### Drill-Down: California
 California has three different NASA centers; the map below isolates California for a more detailed look. 
 
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
