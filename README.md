@@ -8,7 +8,7 @@ The first step in contacting your congressional representatives is knowing who t
 * [Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representative.  
 * [Click Here](https://www.senate.gov/senators/index.htm) to look up your senators.  
 
-Take a moment to write down your district and the names of your rep and two senators. This information is your most basic responsibility as an informed voter and facilitates the next step, determining whether they sit on any relevant budget committees  
+Take a moment to write down your district and the names of your rep and two senators. This information is your most basic responsibility as an informed voter and facilitates the next step, determining whether they sit on any relevant budget committees. You can also use enter this infromation into the below maps and plots to see the specific data for your own state and district.  
 
 ## Congressional Budget Creation 
 The process by which the Federal government creates and approves the budget each year is not simple, but it can be boiled down into three parts:
