@@ -52,9 +52,9 @@ For more infomation about the focus of each center as well as additional NASA fa
 
 The following maps break down these locations by state and by Congressional District.
 
-<center><iframe src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+<center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-<center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '320'></iframe></center>
+<center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '320'></iframe></center>
   
 
 ### Geographic Diversity in NASA Contract Awards 
