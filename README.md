@@ -2,7 +2,7 @@
 
 For over 60 years, the National Aeronautics and Space Administration ([NASA](https://www.nasa.gov/)) has lead humanity's efforts to explore the air and space around us. NASA's research has led to countless inventions and technologies, and the organization has inspired many thousands of children to grow up to become scientists. As self-evident as the worth and importance of NASA might be, it still must fight for proper funding and support from the Federal Government. You can help NASA in this fight for resources by contacting your elected officials. As this article will demonstrate, NASA has stakeholders across the country, so every voter should engage with their represenation to express support.
 
-## Find your congressional district 
+## Find your Congressional District 
 The first step in contacting your congressional representitives is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
 
 * [Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representitive.  
