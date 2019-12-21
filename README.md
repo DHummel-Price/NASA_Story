@@ -5,10 +5,10 @@ For over 60 years, the National Aeronautics and Space Administration ([NASA](htt
 ## Find Your Congressional District 
 The first step in contacting your congressional representatives is knowing who they are. At the following link, you can look up your district and rep by entering your zip code: 
 
-* [Click Here](https://www.house.gov/htbin/findrep) to look up Your Congressional representative.  
+* [Click Here](https://www.house.gov/htbin/findrep) to look up your Congressional representative.  
 * [Click Here](https://www.senate.gov/senators/index.htm) to look up your senators.  
 
-Take a moment to write down your district and the names of your rep and two senators. This information is your most basic responsibility as an informed voter and facilitates the next step, determining whether they sit on any relevant budget committees. You can also use enter this infromation into the below maps and plots to see the specific data for your own state and district.  
+Take a moment to write down your district and the names of your rep and two senators. This information is your most basic responsibility as an informed voter and facilitates the next step, determining whether they sit on any relevant budget committees. You can also enter this infromation into the below maps and plots to see the specific data for your own state and district.  
 
 ## Congressional Budget Creation 
 The process by which the Federal government creates and approves the budget each year is not simple, but it can be boiled down into three parts:
@@ -50,7 +50,7 @@ NASA has 10 field centers:
 
 For more information about the focus of each center as well as additional NASA facilities, see [NASA's website](https://www.nasa.gov/about/sites/index.html).
 
-The following maps break down these locations by state and by Congressional District.
+The following maps break down these locations by state and by Congressional district.
 
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
 
