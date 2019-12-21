@@ -52,20 +52,16 @@ For more infomation about the focus of each center as well as additional NASA fa
 
 The following maps break down these locations by state and by Congressional District.
 
-#### NASA Centers by State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-#### NASA Centers by District:
-<center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
+<center><iframe src="https://public.tableau.com/views/ByDistricts/Centers?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '320'></iframe></center>
   
 
 ### Geographic Diversity in NASA Contract Awards 
 Now let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
 
-#### NASA Contract Awards By State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateAwardDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-#### NASA Contract Awards By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Awards?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 
@@ -73,10 +69,8 @@ Now let's look at the geographic distribution of NASA contracts. The maps below 
 ### Committee Membership  
 Now let's look at where committee members are from. Notice that these do not neatly overlap with the location of the centers discussed above. 
 
-#### NASA Committee Membership by State:
 <center><iframe src="https://public.tableau.com/views/ByStates/StateCommitteeDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
-
-#### NASA Committee Membership by District:
+  
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Committees?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ### Drill-down: California
@@ -88,10 +82,8 @@ California has three different NASA centers; the map below isolates California f
 ## Relationships between variables
 The parallel coordinate diagrams below contain the three variables discussed above. A parallel coordinate diagram facilites comparison of more than two variables. If the award amount strongly coorelated with committee membership and the location of field centers, we would expect most of the lines to be somewhat horizontal, with minimal crossing. We do not see that in the below diagrams. The takeaway is that many different districts and states have a stake in NASA, so don't assume your district is unimportant! Use the highlighter tool to enter your state and district to highlight it in the plot. Note: Due to limitations of Tableau, the three variables have min-max scaled to place them on the same scale. Hover your mouse over any given line to see the absolute values. 
 
-#### By State:
 <center><iframe src="https://public.tableau.com/views/ByStates/ParallelDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-#### By District:
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Parallel?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Call, Write, or Visit your congressional reps!  
