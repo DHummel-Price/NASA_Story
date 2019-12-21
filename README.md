@@ -20,7 +20,7 @@ The process by which the Federal government creates and approves the budget each
 This article focuses on the impact that you can have on parts 2 and 3 of the process by contacting your Senators and Representitives to express your support for NASA. A more complete explanation of the full process can be found on the Federal Government's website [here](https://www.usa.gov/budget). A primer is also included in the Planetary Society's free online course [Space Advocacy 101](https://courses.planetary.org/p/space-advocacy-101). The course is easy, modular, and only takes a few hours to complete. I highly recommend it. 
 
 
-### Committees relevant to NASA
+**Committees relevant to NASA**
 Members of the budgeting committees have an outsized influence on NASA's budget. If your Senators and Representitives are on any of these committees, it is especially important for you to engage with them about NASA and space exploration. The Committess involved in establishing NASA's budget are the following:
 
 * [The House Science, Space, and Technology Authorization Committee](https://science.house.gov/)
@@ -31,7 +31,7 @@ Members of the budgeting committees have an outsized influence on NASA's budget.
 * [The Senate Aviation and Space Subcommittee](https://www.commerce.senate.gov/aviation-and-space)
 * [The Senate Commerce, Justice, Science, and Related Agencies Approprations Subcommittee](https://www.appropriations.senate.gov/subcommittees/commerce-justice-science-and-related-agencies)
 
-## Why Your Voice Matters
+**Why Your Voice Matters**
 As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevent committee appointments. Speaking up to your elected representation is vital! The following uses NASA procurment data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
 
 ### NASA Centers are Scattered Across the Country
@@ -76,7 +76,6 @@ Now let's look at where committee members are from. Notice that these do not nea
 ### Drill-down: California
 California has three different NASA centers; the map below isolates California for a more detailed look. 
 
-#### NASA Contracts in California
 <center><iframe src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
 ## Relationships between variables
@@ -86,9 +85,8 @@ The parallel coordinate diagrams below contain the three variables discussed abo
 
 <center><iframe src="https://public.tableau.com/views/ByDistricts/Parallel?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
-## Call, Write, or Visit your congressional reps!  
+## A Call to Action!  
 As the above demonstrates, NASA has a large and diverse set of Congresspeople with incentive to support NASA. I encourage you take a moment right now to send a note to your elected representitives urging them to support NASA. Congressional Offices rarely hear from constitutents regarding space policy and NASA, so they will take more note of your correspondence than they might for other issues. Don't stress too much about what to say. Simply state that you are a registered voter who is passionate about NASA and space, and that you urge your rep to support NASA however they can. Your voice matters. Call, write, or visit your rep today! 
 
 ### Project Origination and Acknowledgements 
-
 This project originally was developed for the Data Vizualization course as part of the author's Master of Science in Data Science for Public Policy degree program at the McCourt School for Public Policy at Georgetown University. Special Thanks to the Planetary Society for providing the background domain knownledge that inspired this project. The project would not be possible without the guidance of Taylor Corbett (<link to Taylor's page here>) and the other students in the course: Jean Landry Binam Keyanfe, Lixue Chen, Chandler Dawson, Zachary Gozlan, Eric LaRose, Yining Li, Ziqi Niu, Madeline Pickens, Andrea Cristina Quevedo Acuna, George Schoeffel, Harsh Sharda, Neha Tiwari, and Lily Yue. (Links for anyone in the class who wants them?) 
