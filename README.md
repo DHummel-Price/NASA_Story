@@ -58,7 +58,7 @@ The following maps break down these locations by state and by Congressional Dist
   
 
 ### Geographic Diversity in NASA Contract Awards 
-Now let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
+Now, let's look at the geographic distribution of NASA contracts. The maps below show this distribution first by state and then by district. Note: the values used to create the maps are contract awards that have been put on a scale of order of magnitude for better readability. Hover over the map to see the specific award amounts.  
 
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByStates/StateAwardDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
 
@@ -67,7 +67,7 @@ Now let's look at the geographic distribution of NASA contracts. The maps below 
 
   
 ### Committee Membership  
-Now let's look at where committee members are from. Notice that these do not neatly overlap with the location of the centers discussed above. 
+Next, let's look at where committee members are from. Notice that these do not neatly overlap with the location of the centers discussed above. 
 
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByStates/StateCommitteeDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
   
