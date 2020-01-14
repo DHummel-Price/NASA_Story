@@ -31,7 +31,7 @@ Members of the budgeting committees have an outsized influence on NASA's budget.
 * [The Senate Aviation and Space Subcommittee](https://www.commerce.senate.gov/aviation-and-space)
 * [The Senate Commerce, Justice, Science, and Related Agencies Appropriations Subcommittee](https://www.appropriations.senate.gov/subcommittees/commerce-justice-science-and-related-agencies)
 
-**Why Your Voice Matters**
+**Why Your Voice Matters**  
 As the following will demonstrate, many districts and states have natural incentive to support NASA based on already extant facilities and contracts. However, these places do not entirely overlap with districts and states with relevant committee appointments. Speaking up to your elected representation is vital! The following uses NASA procurement data [(NASA PDV)](https://prod.nais.nasa.gov/cgibin/npdv/map.cgi) and data from the above committee links. For more information about how these data were cleaned, please view the cleaning word document and three cleaning Jupyter Notebooks in the [repo](https://github.com/DHummel-Price/NASA_Story) for this page.   
 
 ### NASA Centers are Scattered Across the Country
