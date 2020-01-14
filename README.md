@@ -50,7 +50,7 @@ NASA has 10 field centers:
 
 For more information about the focus of each center as well as additional NASA facilities, see [NASA's website](https://www.nasa.gov/about/sites/index.html).
 
-The following maps break down these locations by state and by Congressional district.
+The following maps break down these locations by state and by Congressional district. Click on the map, and then press the F key to move the map around.
 
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByStates/StateCentersDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
 
@@ -79,7 +79,7 @@ California has three different NASA centers; the map below isolates California f
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByDistricts/CaliDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '420'></iframe></center>
 
 ## Relationships between Variables
-The parallel coordinate diagrams below contain the three variables discussed above. A parallel coordinate diagram facilitates comparison of more than two variables. If the award amount strongly correlated with committee membership and the location of field centers, we would expect most of the lines to be somewhat horizontal, with minimal crossing. We do not see that in the below diagrams. The takeaway is that many different districts and states have a stake in NASA, so don't assume your district is unimportant! Use the highlighter tool to enter your state and district to highlight it in the plot. Note: Due to limitations of Tableau, the three variables have min-max scaled to place them on the same scale. Hover your mouse over any given line to see the absolute values. 
+The parallel coordinate diagrams below contain the three variables discussed above. A parallel coordinate diagram facilitates comparison of more than two variables. If the award amount strongly correlated with committee membership and the location of field centers, we would expect most of the lines to be somewhat horizontal, with minimal crossing. We do not see that in the below diagrams. The takeaway is that many different districts and states have a stake in NASA, so don't assume your district is unimportant! Use the highlighter tool to enter your state and district to highlight it in the plot. Note: Due to limitations of Tableau, the three variables have been min-max scaled to place them on the same scale. Hover your mouse over any given line to see the absolute values. 
 
 <center><iframe seamless frameborder="0" src="https://public.tableau.com/views/ByStates/ParallelDash?:embed=yes&:display_count=yes&:showVizHome=no" width = '100%' height = '400'></iframe></center>
 
